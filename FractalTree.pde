@@ -3,7 +3,7 @@ private int smallestBranch = 10;
 private double branchAngle = .2;  
 public void setup() 
 {   
-	size(1000,1000);    
+	size(580,580);    
 	noLoop(); 
 } 
 public void draw() 
